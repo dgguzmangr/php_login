@@ -5,7 +5,7 @@ Esta aplicación PHP proporciona funcionalidades para gestionar usuarios, incluy
 ## Instalación
 
 Clona este repositorio en tu máquina local:
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/dgguzmangr/php_login.git
 
 ## Configura las variables de entorno:
 1. Crea un archivo .env en el directorio raíz del proyecto.
